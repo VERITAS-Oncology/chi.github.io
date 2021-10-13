@@ -1,4 +1,4 @@
-baseurl = "veritas-oncology.github.io/chi.github.io/"    # "https://pages.gitlab.io/hugo/"
+baseurl = "https://veritas-oncology.github.io/chi/"    # "https://pages.gitlab.io/hugo/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
