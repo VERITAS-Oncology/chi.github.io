@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on CHI</title>
+    <link>https://veritas-oncology.github.io/chi/page/</link>
+    <description>Recent content in Pages on CHI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster><atom:link href="https://veritas-oncology.github.io/chi/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About CHI</title>
+      <link>https://veritas-oncology.github.io/chi/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://veritas-oncology.github.io/chi/page/about/</guid>
+      <description>Why CHI?
+Date Organized:
+ Febuary 2021  Group members:
+ member 1 member 2 member 3  </description>
+    </item>
+    
+    <item>
+      <title>Code Source</title>
+      <link>https://veritas-oncology.github.io/chi/page/abstracts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://veritas-oncology.github.io/chi/page/abstracts/</guid>
+      <description>Publication Code
+Other Code</description>
+    </item>
+    
+    <item>
+      <title>Code Source</title>
+      <link>https://veritas-oncology.github.io/chi/page/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://veritas-oncology.github.io/chi/page/code/</guid>
+      <description>Publication Code
+Other Code</description>
+    </item>
+    
+    <item>
+      <title>Code Source</title>
+      <link>https://veritas-oncology.github.io/chi/page/manuscripts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://veritas-oncology.github.io/chi/page/manuscripts/</guid>
+      <description>Publication Code
+Other Code</description>
+    </item>
+    
+    <item>
+      <title>Code Source</title>
+      <link>https://veritas-oncology.github.io/chi/page/posters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://veritas-oncology.github.io/chi/page/posters/</guid>
+      <description>Publication Code
+Other Code</description>
+    </item>
+    
+  </channel>
+</rss>
