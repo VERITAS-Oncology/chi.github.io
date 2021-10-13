@@ -1,0 +1,109 @@
+baseurl = "veritas-oncology.github.io/chi.github.io/"    # "https://pages.gitlab.io/hugo/"
+contentdir    = "content"
+layoutdir     = "layouts"
+publishdir    = "public"
+title = "CHI"
+canonifyurls  = true
+
+DefaultContentLanguage = "en"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+  subtitle = "Huntsman Cancer Institute"
+  logo = "img/avatar-icon.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Some Person"
+  email = "youremail@domain.com"
+#  facebook = "username"
+#  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  gitlab = "username"
+  github = "username"
+#  twitter = "username"
+#  reddit = "username"
+#  linkedin = "username"
+#  xing = "username"
+#  stackoverflow = "users/XXXXXXX/username"
+#  snapchat = "username"
+#  instagram = "username"
+#  youtube = "user/username" # or channel/channelname
+#  soundcloud = "username"
+#  spotify = "username"
+#  bandcamp = "username"
+#  itchio = "username"
+#  keybase = "username"
+
+
+[[menu.main]]
+    name = "manuscripts"
+    url = "page/manscripts/"
+    weight = 1
+
+[[menu.main]]
+    name = "abstracts"
+    url = "page/abstracts/"
+    weight = 1
+
+[[menu.main]]
+    name = "posters"
+    url = "page/posters/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "code"
+    name = "code"
+    url = "page/code/"
+    weight = 4
+
+[[menu.main]]
+    name = "about"
+    url = "page/about/"
+    weight = 5
+
+
+[[menu.main]]
+    parent = "manuscripts"
+    name = "fish extractor"
+    url = "post/fishextractor"
+    weight = 1
+
+[[menu.main]]
+    parent = "manuscripts"
+    name = "cohort explorer application"
+    url = "post/cohortexplorerapp"
+    weight = 2
+
+[[menu.main]]
+    parent = "abstracts"
+    name = "abstract 1"
+    url = "post/abstract1"
+    weight = 1
+
+[[menu.main]]
+    parent = "posters"
+    name = "poster 1"
+    url = "post/poster1"
+    weight = 1
+
+
